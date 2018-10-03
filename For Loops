@@ -1,0 +1,25 @@
+1. Complete the for loop below so that it prints out the numbers 1­10.
+for(              ;       0<10      ;             )
+{ 
+
+
+}
+
+
+2. Complete the for loop below so that it counts down and prints out 75 to 50.
+for(              ;             ;             )
+{
+
+
+ 
+}
+
+
+
+
+3. Describe briefly what each part of the for loop does: 
+for( a ; b ; c )
+{               } 
+a) 
+b) 
+c) 
